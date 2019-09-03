@@ -1,3 +1,31 @@
 body{
-    background-color:#
+    background-color:#e6f3f2;
+}
+
+.header{
+    background-color:#46d4a4;
+    height:100px;
+    padding-top:30px;
+}
+
+.item{
+    background-color:#1f5e91;
+    color:white;
+    border-radius: 5px;
+    border: 1px solid #85bae6;
+    padding:20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    max-width: 450px;
+    margin: 20px;
+    box-shadow: 10px 10px 28px -15px rgba(0,0,0,0.68);
+}
+
+.item-name{
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.item .table > tbody > tr > td, .item .table > tbody > tr > th, .item .table > tfoot > tr > td, .item .table > tfoot > tr > th, .item .table > thead > tr > td, .item .table > thead > tr > th {
+    border-color:#62b3f9;
 }

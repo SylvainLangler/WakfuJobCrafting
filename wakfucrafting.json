@@ -46,6 +46,197 @@
                 "drop":""
               }
             ]
+          },
+          {
+            "nom":"Atelier de Maroquinier",
+            "description":"Description de l'atelier de Maroquinier",
+            "items_recette":[
+              {
+                "nom":"Poudre",
+                "quantite":8,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Dragocarpe Cendrée",
+                "quantite":40,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Baie de Gargousier Bedonnant",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Petit atelier de Maroquinier",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Bave de Mimic",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              }
+            ]
+          },
+          {
+            "nom":"Grand Atelier de Maroquinier",
+            "description":"Description du grand atelier de Maroquinier",
+            "items_recette":[
+              {
+                "nom":"Poudre",
+                "quantite":192,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Pulsatile Obscure",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Fleur de Richesse",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Atelier de Maroquinier",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Bave de Mimic",
+                "quantite":20,
+                "description":"",
+                "drop":""
+              }
+            ]
+          }  
+        ]
+      },
+      {
+        "nom":"Tailleur",
+        "items":[
+          {
+            "nom":"Petit atelier de Tailleur",
+            "description":"Description du petit atelier de tailleur",
+            "items_recette":[
+              {
+                "nom":"Lin du Soleil",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Fleur Sentimentale",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Sioupère-Glou Rudimentaire",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Sioupère-Glou Grossière",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Fibre Rudimentaire",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Fibre Grossière",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              }
+            ]
+          },
+          {
+            "nom":"Atelier de Tailleur",
+            "description":"Description de l'atelier de Tailleur",
+            "items_recette":[
+              {
+                "nom":"Poudre",
+                "quantite":8,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Croton Malté",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Baie de Gargousier Bedonnant",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Petit atelier de Tailleur",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Bave de Mimic",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              }
+            ]
+          },
+          {
+            "nom":"Grand Atelier de Tailleur",
+            "description":"Description du grand atelier de Tailleur",
+            "items_recette":[
+              {
+                "nom":"Poudre",
+                "quantite":192,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Clou-Bas",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Fleur de Richesse",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Atelier de Tailleur",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Bave de Mimic",
+                "quantite":20,
+                "description":"",
+                "drop":""
+              }
+            ]
           }  
         ]
       }
