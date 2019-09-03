@@ -1,0 +1,54 @@
+{"craft":
+  {
+    "metiers":
+    [
+      {
+        "nom":"Maroquinier",
+        "items":[
+          {
+            "nom":"Petit atelier de Maroquinier",
+            "description":"Description du petit atelier de maroquinier",
+            "items_recette":[
+              {
+                "nom":"Anchois Difficile",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Poisson Pané Réincarné",
+                "quantite":1,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Sioupère-Glou Rudimentaire",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Sioupère-Glou Grossière",
+                "quantite":10,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Cuir Rudimentaire",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              },
+              {
+                "nom":"Cuir Grossier",
+                "quantite":5,
+                "description":"",
+                "drop":""
+              }
+            ]
+          }  
+        ]
+      }
+    ]
+  }
+}
