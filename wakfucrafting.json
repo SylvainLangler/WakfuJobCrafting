@@ -4,7 +4,7 @@
     [
       {
         "nom":"Maroquinier",
-        "items":[
+        "ateliers":[
           {
             "nom":"Petit atelier de Maroquinier",
             "description":"Description du petit atelier de maroquinier",
@@ -123,7 +123,7 @@
       },
       {
         "nom":"Tailleur",
-        "items":[
+        "ateliers":[
           {
             "nom":"Petit atelier de Tailleur",
             "description":"Description du petit atelier de tailleur",

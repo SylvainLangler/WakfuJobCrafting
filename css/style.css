@@ -1,18 +1,29 @@
 body{
-    background-color:#e6f3f2;
+    /*background-color:#e6f3f2;*/
+    /* Dark mode */ background-color:#041521;
 }
 
 .header{
-    background-color:#46d4a4;
+    background-color:#303640;
+    color:white;
     height:100px;
     padding-top:30px;
 }
 
+.nom_metier{
+    color:white;
+}
+
+.main-container{
+    padding-left:0;
+}
+
 .item{
-    background-color:#1f5e91;
+    /*background-color:#1f5e91;*/
+    background-color: /*#738da2*/#314352;
     color:white;
     border-radius: 5px;
-    border: 1px solid #85bae6;
+    border: 1px solid #041521;
     padding:20px;
     padding-right: 40px;
     padding-left: 40px;
@@ -27,5 +38,44 @@ body{
 }
 
 .item .table > tbody > tr > td, .item .table > tbody > tr > th, .item .table > tfoot > tr > td, .item .table > tfoot > tr > th, .item .table > thead > tr > td, .item .table > thead > tr > th {
-    border-color:#62b3f9;
+    border-color:#041521;;
+}
+
+.item .table > thead > tr > th{
+    border-top-color:transparent;
+}
+
+.cat-items{
+    color:white;
+    margin-top:3em;
+    text-align: center;
+}
+
+.metier{
+    height: 45px;
+    width: 100%;
+    padding: 35px;
+    text-align: center;
+    border-bottom: 1px solid #041521;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.liste_metiers{
+    color: white;
+    background-color: #303640;
+    box-shadow: 10px 10px 28px -15px rgba(0,0,0,0.68);
+    margin-top: 55px;
+    border-top-right-radius:6px;
+    border-bottom-right-radius:6px;
+    
+}
+
+.metier-selected{
+    color:aqua;
+    background-color:#0d2f2e;
+    transition-duration:.3s;
+
 }
